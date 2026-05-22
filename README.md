@@ -14,8 +14,8 @@ Raw e-commerce transaction exports are good for record-keeping, but terrible for
 
 Due to large file sizes, the dataset and Power BI report are hosted externally:
 
-- **[Download Dataset (CSV)](https://drive.google.com/drive/folders/1hNZlC-M1Dv4WjPXFDBQvleKClPAaPEsk?usp=sharing)** 📁
-- **[Download Power BI Report (.pbix)](https://drive.google.com/file/d/1eFhU5YJ0sNOS40ycY6X11oXfY_5vJyFz/view?usp=sharing)** 📊
+- **[Download Dataset (CSV)]https://drive.google.com/drive/folders/12KHtXjsTxMAEPLBUIH8nzR2hPzs0GO1-?usp=drive_link** 📁
+- **[Download Power BI Report (.pbix)]https://drive.google.com/drive/folders/12KHtXjsTxMAEPLBUIH8nzR2hPzs0GO1-?usp=drive_link** 📊
 
 ---
 
