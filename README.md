@@ -24,28 +24,20 @@ Due to large file sizes, the dataset and Power BI report are hosted externally:
 ### 1. Executive Summary
 Top-level KPIs at a glance — Total Revenue, Profit Margin, and Year-over-Year growth trends.
 
-![Executive Dashboard](Exec-Dash.png)
-
 ---
 
 ### 2. Geographic Sales Distribution
 An interactive map identifying regional hotspots, underperforming territories, and expansion opportunities.
-
-![Geographic Map](Map.png)
 
 ---
 
 ### 3. Product & Category Performance
 Breaks down which product lines are driving the most revenue and which carry the healthiest margins.
 
-![Product Analysis](Product.png)
-
 ---
 
 ### 4. Customer Insights
 Segments customers by purchasing behavior and frequency to support targeted marketing efforts.
-
-![Customer Analysis](Customer.png)
 
 ---
 
@@ -54,8 +46,6 @@ Segments customers by purchasing behavior and frequency to support targeted mark
 ### Data Modeling — Star Schema
 
 The report uses a **Star Schema** for clean, performant filtering. A central **Sales Fact Table** connects to dimension tables for Product, Customer, Geography, and a custom **Calendar table** built in Power Query.
-
-![Data Model](Data-Model.png)
 
 ---
 
